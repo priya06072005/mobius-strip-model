@@ -64,7 +64,4 @@ jupyter lab Assignment.ipynb
     Surface area value
 
     Edge length value
-## 📷 Visualization
-
-![Mobius Strip Plot](https://github.com/priya06072005/raw/main/plot.png)
 
