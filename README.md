@@ -66,5 +66,5 @@ jupyter lab Assignment.ipynb
     Edge length value
 ## 📷 Visualization
 
-![Mobius Strip Plot](plot.png)
+![Mobius Strip Plot](https://github.com/priya06072005/raw/main/plot.png)
 
